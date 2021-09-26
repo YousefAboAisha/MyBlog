@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MyBlog/static/css/main.0f3ce6f0.chunk.css",
-    "main.js": "/MyBlog/static/js/main.b3643574.chunk.js",
-    "main.js.map": "/MyBlog/static/js/main.b3643574.chunk.js.map",
+    "main.js": "/MyBlog/static/js/main.a39a2fd2.chunk.js",
+    "main.js.map": "/MyBlog/static/js/main.a39a2fd2.chunk.js.map",
     "runtime-main.js": "/MyBlog/static/js/runtime-main.c06603ca.js",
     "runtime-main.js.map": "/MyBlog/static/js/runtime-main.c06603ca.js.map",
     "static/js/2.7cfb5696.chunk.js": "/MyBlog/static/js/2.7cfb5696.chunk.js",
@@ -18,6 +18,7 @@
     "static/media/coding.0fefaf9c.svg": "/MyBlog/static/media/coding.0fefaf9c.svg",
     "static/media/contact.ba4258a4.svg": "/MyBlog/static/media/contact.ba4258a4.svg",
     "static/media/homeBackground3.938cd958.mp4": "/MyBlog/static/media/homeBackground3.938cd958.mp4",
+    "static/media/movie.4707cdbe.svg": "/MyBlog/static/media/movie.4707cdbe.svg",
     "static/media/portfolio.60183767.svg": "/MyBlog/static/media/portfolio.60183767.svg",
     "static/media/Projects.module.css": "/MyBlog/static/media/projects.6d6d7eb2.jpg",
     "static/media/rate.1985c65e.svg": "/MyBlog/static/media/rate.1985c65e.svg",
@@ -27,6 +28,6 @@
     "static/js/runtime-main.c06603ca.js",
     "static/js/2.7cfb5696.chunk.js",
     "static/css/main.0f3ce6f0.chunk.css",
-    "static/js/main.b3643574.chunk.js"
+    "static/js/main.a39a2fd2.chunk.js"
   ]
 }
